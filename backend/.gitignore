@@ -1,0 +1,16 @@
+# Python virtual env
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Env files
+.env
+.env.*
+
+# OS/editor cruft
+.DS_Store
+*.log
